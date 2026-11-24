@@ -2,7 +2,7 @@
 
 ![make.fun](https://make.fun/badge/u-coral-404-the-production-database-apology-5c1fc02a.svg)
 ![rank](https://make.fun/badge/u-coral-404-the-production-database-apology-5c1fc02a/Joppy26/u-coral-404-the-production-database-apology-5c1fc02a/rank.svg)
-![reward](https://make.fun/badge/u-coral-404-the-production-database-apology-5c1fc02a/reward.svg)
+![reward](https://make.fun/badge/u-coral-404-the-production-database-apology-5c1fc02a/Joppy26/u-coral-404-the-production-database-apology-5c1fc02a/reward.svg)
 
 Entry for the make.fun bounty: [The Production Database Apology](https://make.fun/bounty/u-coral-404-the-production-database-apology-5c1fc02a)
 
